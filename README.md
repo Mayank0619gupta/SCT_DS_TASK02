@@ -43,6 +43,7 @@ This project focuses on:
 This project demonstrates how data cleaning, exploratory data analysis, and visual storytelling can help derive meaningful insights from historical data.
 
 ## Linkedin Post link__ 
+https://www.linkedin.com/posts/mayank-gupta-a27a03281_greetings-linkedin-network-completed-activity-7354410333525979137-EUly?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESrof8B_OvQmVZ0ECd3MfA0UWk9TUXg7oc
 
 
 
